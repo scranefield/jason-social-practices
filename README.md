@@ -4,7 +4,6 @@ A metadeliberation plan and associated [Jason](https://github.com/jason-lang/jas
 To use in a Jason program, include the following preprocessor directive in your agent source (asl) files:
 ```
 { include("metadeliberation.asl") }
-
 ```
 Your agent code should include facts defining the social practices and their landmarks, in the format:
 ```
@@ -19,6 +18,6 @@ If using the metainterpreter alone, use this preprocessor directive:
 { include("metainterpreter.asl") }
 ```
 
-To come: agent and environment for an example scenario.
+To come: agent and environment code for an example scenario.
 
 For more information, see [arXiv paper link to come].
