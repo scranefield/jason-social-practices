@@ -18,6 +18,6 @@ If using the metainterpreter alone, use this preprocessor directive:
 { include("metainterpreter.asl") }
 ```
 
-To come: agent and environment code for an example scenario.
+*To come*: agent and environment code for an example scenario.
 
 For more information, see [arXiv paper link to come].
