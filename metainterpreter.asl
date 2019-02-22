@@ -1,6 +1,4 @@
-	// Metainterpreter plans in project careRobotWithSPs
-	// To be included in agent asl files
-	
+	// Metainterpreter plans to be included in agent asl files
 	// TO DO: Consider whether any metainterpreter plans need an all_unifs annotation
 	
 	context_ok(plan(_,_,ContextCond,_)) :- ContextCond.
