@@ -20,4 +20,4 @@ If using the metainterpreter alone, use this preprocessor directive:
 
 *To come*: agent and environment code for an example scenario.
 
-For more information, see [arXiv paper link to come].
+For more information, see https://arxiv.org/abs/1903.03189.
